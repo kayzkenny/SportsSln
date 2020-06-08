@@ -28,6 +28,7 @@ namespace SportsStore
                 opts.UseSqlServer(
                 Configuration["ConnectionStrings:SportsStoreConnection"]);
             });
+            services.AddScoped<IStoreRepository, EFStoreRepository>();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
