@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7ACM9jeVmeATJwwGJPyEwQ1KQZiKfp9aEygPm9V8x23k1MAltPrF1V+tqoh/T/sycj/vd24OoOBlmaRlTBOU4g==",
+  "dgSpecHash": "hq/Nv1vf08iRTr9KxXQjUsPwU1r5YPFODAdf26Q2E/RGiGjStshcbU3/VklU0E2FCT3gQTel8WalBzlyOF+F3Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\KEHUNDE\\source\\repos\\SportsSln\\SportsStore\\SportsStore.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\KEHUNDE\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.4\\microsoft.aspnetcore.cryptography.internal.3.1.4.nupkg.sha512",
+    "C:\\Users\\KEHUNDE\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.4\\microsoft.aspnetcore.cryptography.keyderivation.3.1.4.nupkg.sha512",
+    "C:\\Users\\KEHUNDE\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.4\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.4.nupkg.sha512",
     "C:\\Users\\KEHUNDE\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\KEHUNDE\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\KEHUNDE\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -21,6 +24,8 @@
     "C:\\Users\\KEHUNDE\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.4\\microsoft.extensions.configuration.binder.3.1.4.nupkg.sha512",
     "C:\\Users\\KEHUNDE\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.4\\microsoft.extensions.dependencyinjection.3.1.4.nupkg.sha512",
     "C:\\Users\\KEHUNDE\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\KEHUNDE\\.nuget\\packages\\microsoft.extensions.identity.core\\3.1.4\\microsoft.extensions.identity.core.3.1.4.nupkg.sha512",
+    "C:\\Users\\KEHUNDE\\.nuget\\packages\\microsoft.extensions.identity.stores\\3.1.4\\microsoft.extensions.identity.stores.3.1.4.nupkg.sha512",
     "C:\\Users\\KEHUNDE\\.nuget\\packages\\microsoft.extensions.logging\\3.1.4\\microsoft.extensions.logging.3.1.4.nupkg.sha512",
     "C:\\Users\\KEHUNDE\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
     "C:\\Users\\KEHUNDE\\.nuget\\packages\\microsoft.extensions.options\\3.1.4\\microsoft.extensions.options.3.1.4.nupkg.sha512",
